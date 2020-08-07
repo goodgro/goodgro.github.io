@@ -1,0 +1,101 @@
+body {
+	background-image:url(images/5.jpg);
+}
+div{
+	color:lime;
+	font-size:40px;
+	margin:40px;
+	padding:10px;
+}
+
+.him {
+	color:#ffffff;
+	background-color:#4D9D9D;
+	border:3px solid #D8D8D8;
+	font-size:30px;
+	margin:10px;
+	padding:10px;
+	border-radius:20px;
+	opacity:0.7;
+	box-shadow:5px 5px 7px #ffffff;
+	width:500px;
+	text-align:center;
+	transition:0.2s all;
+	
+	
+}
+
+.mik {
+	color:#ffffff;
+	background-color:#5A9D44;
+	border:3px solid #D8D8D8;
+	font-size:30px;
+	margin:10px;
+	padding:10px;
+	border-radius:20px;
+	opacity:0.7;
+	box-shadow:5px 5px 7px #ffffff;
+	width:500px;
+	text-align:center;
+	transition:1s all;
+}
+
+.nas {
+	color:#ffffff;
+	background-color:#FFDB00;
+	border:3px solid #D8D8D8;
+	font-size:30px;
+	margin:10px;
+	padding:10px;
+	border-radius:20px;
+	opacity:0.7;
+	box-shadow:5px 5px 7px #ffffff;
+	width:500px;
+	text-align:center;
+	transition:0.2s all;
+}
+
+.rkd {
+	color:#ffffff;
+	background-color:#4CC5D8;
+	border:3px solid #D8D8D8;
+	font-size:30px;
+	margin:10px;
+	padding:10px;
+	border-radius:20px;
+	opacity:0.7;
+	box-shadow:5px 5px 7px #ffffff;
+	width:500px;
+	text-align:center;
+	transition:0.2s all;
+}
+
+.title {
+	margin-left:30%;
+	opacity:0.7;
+	color:#ffffff;
+	
+}
+
+.him:hover {
+	border:7px solid #ffffff;
+	transform:rotate(10deg);
+}
+
+.mik:hover {
+	border:7px solid #ffffff;
+	transform:rotate(-10deg);
+}
+
+.nas:hover {
+	border:7px solid #ffffff;
+	transform:rotate(10deg);
+}
+
+.rkd:hover {
+	border:7px solid #ffffff;
+	transform:rotate(-10deg);
+}
+
+
+
